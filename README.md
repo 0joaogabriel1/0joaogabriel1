@@ -53,7 +53,7 @@ Computer Science Student.
 
 ---
 <details id="portuguese-section-toggle">
-  <summary>🇧🇷 Ver Versão em Português / (Clique para expandir)</summary>
+  <summary> Ver Versão em Português (Clique para expandir)</summary>
 
   <a name="versão-em-português"></a>
 
@@ -91,4 +91,14 @@ Computer Science Student.
 
   ## Ferramentas:
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+  ## Github Stats:
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=0joaogabriel1&theme=github_dark&show_icons=true" alt="Estatísticas GitHub João Gabriel"/>
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0joaogabriel1&layout=compact&bg_color=0D1117&border_color=fffC&title_color=4886CC&text_color=FFF" alt="Linguagens Mais Usadas João Gabriel"/>
+</div>
